@@ -13,7 +13,7 @@ NOTE: this is only code for modules in addons folder, all odoo code are inside m
 Spanish
 
 
-## To do list
+## Develop Features 
 
 English
 - Create task 
@@ -26,6 +26,9 @@ Spanish
 - Editar tarea
 - Borrar tarea
 - Vista de app / modulo
+
+## Testing 
+
 
 ## Instalation
 
