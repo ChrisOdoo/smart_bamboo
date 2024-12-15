@@ -34,7 +34,7 @@ Spanish
 - Crear tarea
 - Editar tarea
 - Borrar tarea
-- Vista de app / modulo
+- Vista de Menu / modulo
 
 ## Testing 
 
@@ -46,5 +46,6 @@ Go to applications odoo view (click on update applications list button), searchi
 
 NOTE // you ssh key need be added to can use workflow if you dont have ssh key yo
 can download zip file directly from git.
+When zip downloaded, paste them in you addons folder of your instance, restart odoo and update apps and ready you can actitave it. 
 
 Spanish

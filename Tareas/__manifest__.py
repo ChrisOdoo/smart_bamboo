@@ -15,5 +15,9 @@
     'installable': True,
     'application': True,
     'license': 'LGPL-3',
+    'test': [
+        'tests/test_tareas.py',
+    ],
 }
+
 
