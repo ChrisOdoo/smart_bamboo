@@ -10,7 +10,7 @@
     'data': [
         'security/ir.model.access.csv',
         'views/tareas_views.xml',
-        'views/tareas_menu.xml', 
+        'views/tareas_menu.xml',
     ],
     'installable': True,
     'application': True,
