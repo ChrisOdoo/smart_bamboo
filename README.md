@@ -1,4 +1,6 @@
-# Smart Bamboo Tech test
+# Smart Bamboo Tech test HELLO IM Chris padilla , your new work partner
+
+HELLO IM Chris padilla , your new work partner :) its a pleasure
 
 English
 This is a module than satisfice the task in the email test, where was explained 
