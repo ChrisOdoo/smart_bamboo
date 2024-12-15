@@ -1,0 +1,36 @@
+<odoo>
+    <record id="view_tareas_tree" model="ir.ui.view">
+        <field name="name">tareas.tree</field>
+        <field name="model">tareas.tarea</field>
+        <field name="arch" type="xml">
+            <tree>
+                <field name="name"/>
+                <field name="due_date"/>
+                <field name="is_done"/>
+            </tree>
+        </field>
+    </record>
+
+    <record id="view_tareas_form" model="ir.ui.view">
+        <field name="name">tareas.form</field>
+        <field name="model">tareas.tarea</field>
+        <field name="arch" type="xml">
+            <form>
+                <sheet>
+                    <field name="name"/>
+                    <field name="description"/>
+                    <field name="due_date"/>
+                    <field name="is_done"/>
+                </sheet>
+            </form>
+        </field>
+    </record>
+
+    <record id="action_tareas" model="ir.actions.act_window">
+        <field name="name">Tareas</field>
+        <field name="res_model">tareas.tarea</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+</odoo>
+
+
