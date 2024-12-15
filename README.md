@@ -19,7 +19,11 @@ the git flow was configured to when you make push, got to remote, after you
 from server ubuntu make pull , now you can install the module directly in
 applications odoo view (click on update applications list button), searching by module folder name, press activate button and Ready yo have the module installed.
 
-Spanish
+Here GITHUB of this project whit commits
+https://github.com/ChrisOdoo/smart_bamboo/commits/master/
+
+
+
 
 
 ## Develop Features 
@@ -30,13 +34,10 @@ English
 - Delete task
 - Views
 
-Spanish
-- Crear tarea
-- Editar tarea
-- Borrar tarea
-- Vista de Menu / modulo
-
 ## Testing 
+For Unit Test go to /opt/odoo/odoo folder and run the next command, you should get test passed status when success
+
+command:  ./odoo-bin --test-enable -u tareas -d <your_db>
 
 
 ## Instalation
@@ -48,4 +49,3 @@ NOTE // you ssh key need be added to can use workflow if you dont have ssh key y
 can download zip file directly from git.
 When zip downloaded, paste them in you addons folder of your instance, restart odoo and update apps and ready you can actitave it. 
 
-Spanish
