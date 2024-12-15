@@ -3,7 +3,7 @@
     'version': '1.0',
     'summary': 'Gestión de Tareas',
     'description': 'Módulo para gestionar tareas con CRUD básico.',
-    'author': 'Tu Nombre',
+    'author': 'Ing Chris Padilla',
     'website': 'http://www.tuempresa.com',
     'category': 'Productivity smart bamboo 2025',
     'depends': ['base'],
