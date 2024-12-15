@@ -9,6 +9,15 @@ also mention than , should be compatibily with some odoo version, so i do this
 for odoo 17
 
 NOTE: this is only code for modules in addons folder, all odoo code are inside my server linux / ubuntu 22, where was configured and exposed to internet in comunnity version.
+NOTE // you ssh key need be added to can use workflow if you dont have ssh key yo
+can download zip file directly from git. or you can send me you ssh key to my mail, i can add you to 
+repository
+my mail christianpadillasistemas@gmail.com
+
+GIT Workflow
+the git flow was configured to when you make push, got to remote, after you
+from server ubuntu make pull , now you can install the module directly in
+applications odoo view (click on update applications list button), searching by module folder name, press activate button and Ready yo have the module installed.
 
 Spanish
 
@@ -33,12 +42,9 @@ Spanish
 ## Instalation
 
 English
+Go to applications odoo view (click on update applications list button), searching by module folder name, press activate button and Ready yo have the module installed.
 
+NOTE // you ssh key need be added to can use workflow if you dont have ssh key yo
+can download zip file directly from git.
 
 Spanish
-Sigue estos pasos para instalar el proyecto en tu máquina local.
-
-1. Clona este repositorio:
-
-   ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
